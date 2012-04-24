@@ -3,6 +3,7 @@ import os
 import getpass
 from time import gmtime, strftime
 
+
 class logger(object):
     def open_file(self):
         self.LOG = logging.getLogger(__name__)
