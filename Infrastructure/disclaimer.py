@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 from logger import logger
 
+
 class indemnify(object):
         def disclaimer_response(self):
             answer = raw_input("WARNING!!! OpenHack is going to break stuff.\n"

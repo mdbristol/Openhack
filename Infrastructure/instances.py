@@ -5,6 +5,7 @@ import os
 from random import choice
 from logger import logger
 
+
 class manage_instances(object):
     def __init__(self):
         self.log = logger() 
