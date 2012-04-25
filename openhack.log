@@ -999,3 +999,84 @@ INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID 
 INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo5> at 2012-04-19 18:55:34
 INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo5> at 2012-04-19 18:55:34
 INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo10> at 2012-04-19 18:56:00
+DISCLAIMER log: User softeng12 with UID 1000 DECLINED disclaimer at 2012-04-25 01:34:25
+DISCLAIMER log: User softeng12 with UID 1000 ACCEPTED disclaimer at 2012-04-25 01:35:05
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo4> at 2012-04-25 01:35:07
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo4> at 2012-04-25 01:35:07
+DISCLAIMER log: User softeng12 with UID 1000 DECLINED disclaimer at 2012-04-25 15:20:29
+DISCLAIMER log: User softeng12 with UID 1000 ACCEPTED disclaimer at 2012-04-25 16:36:49
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo16> at 2012-04-25 16:36:50
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo16> at 2012-04-25 16:36:50
+DISCLAIMER log: User softeng12 with UID 1000 ACCEPTED disclaimer at 2012-04-25 16:53:46
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo20> at 2012-04-25 16:53:48
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo20> at 2012-04-25 16:53:48
+DISCLAIMER log: User softeng12 with UID 1000 ACCEPTED disclaimer at 2012-04-25 16:57:16
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:17
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:17
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo7> at 2012-04-25 16:57:21
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo7> at 2012-04-25 16:57:21
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo7> at 2012-04-25 16:57:21
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo105> at 2012-04-25 16:57:25
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo105> at 2012-04-25 16:57:25
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo105> at 2012-04-25 16:57:25
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo105> at 2012-04-25 16:57:25
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo103> at 2012-04-25 16:57:29
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo103> at 2012-04-25 16:57:29
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo103> at 2012-04-25 16:57:29
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo103> at 2012-04-25 16:57:29
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo103> at 2012-04-25 16:57:29
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo12> at 2012-04-25 16:57:33
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo12> at 2012-04-25 16:57:33
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo12> at 2012-04-25 16:57:33
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo12> at 2012-04-25 16:57:33
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo12> at 2012-04-25 16:57:33
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo12> at 2012-04-25 16:57:33
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:42
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:42
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:42
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:42
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:42
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:42
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:42
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:46
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:46
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:46
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:46
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:46
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:46
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:46
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo17> at 2012-04-25 16:57:46
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo102> at 2012-04-25 16:57:49
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo102> at 2012-04-25 16:57:49
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo102> at 2012-04-25 16:57:49
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo102> at 2012-04-25 16:57:49
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo102> at 2012-04-25 16:57:49
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo102> at 2012-04-25 16:57:49
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo102> at 2012-04-25 16:57:49
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo102> at 2012-04-25 16:57:49
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo102> at 2012-04-25 16:57:49
+DISCLAIMER log: User softeng12 with UID 1000 ACCEPTED disclaimer at 2012-04-25 17:00:28
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo13> at 2012-04-25 17:00:30
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo13> at 2012-04-25 17:00:30
+DISCLAIMER log: User softeng12 with UID 1000 ACCEPTED disclaimer at 2012-04-25 17:24:31
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoR6> at 2012-04-25 17:24:33
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoR6> at 2012-04-25 17:24:33
+DISCLAIMER log: User softeng12 with UID 1000 ACCEPTED disclaimer at 2012-04-25 17:36:13
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoR2> at 2012-04-25 17:36:30
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoR2> at 2012-04-25 17:36:30
+DISCLAIMER log: User softeng12 with UID 1000 ACCEPTED disclaimer at 2012-04-25 17:36:46
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoP5> at 2012-04-25 17:36:48
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoP5> at 2012-04-25 17:36:48
+DISCLAIMER log: User softeng12 with UID 1000 ACCEPTED disclaimer at 2012-04-25 17:37:52
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo101> at 2012-04-25 17:37:53
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demo101> at 2012-04-25 17:37:53
+DISCLAIMER log: User softeng12 with UID 1000 ACCEPTED disclaimer at 2012-04-25 17:38:26
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoP2> at 2012-04-25 17:38:29
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoP2> at 2012-04-25 17:38:29
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoO6> at 2012-04-25 17:38:47
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoO6> at 2012-04-25 17:38:47
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoO6> at 2012-04-25 17:38:47
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoR1> at 2012-04-25 17:39:03
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoR1> at 2012-04-25 17:39:03
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoR1> at 2012-04-25 17:39:03
+INSTANCE log: User softeng12 with UID 1000 TERMINATED instance with instance ID <Server: demoR1> at 2012-04-25 17:39:03
