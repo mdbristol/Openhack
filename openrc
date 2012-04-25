@@ -5,8 +5,8 @@ source ./stackrc
 
 # Set api HOST_IP endpoint.  SERVICE_HOST may also be used to specify the endpoint,
 # which is convenient for some localrc configurations.
-HOST_IP=${HOST_IP:-127.0.0.1}
-HOST_IP=50.56.74.97
+#HOST_IP=${HOST_IP:-127.0.0.1}
+HOST_IP=50.57.221.45
 SERVICE_HOST=${SERVICE_HOST:-$HOST_IP}
 
 # Nova original used project_id as the *account* that owned resources (servers,
