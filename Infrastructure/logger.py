@@ -31,8 +31,8 @@ class logger(object):
         time = strftime("%Y-%m-%d %H:%M:%S", gmtime())
         username = getpass.getuser()
         uid = os.getuid()
-        logmessage = ("INSTANCE log: User %s with UID %i TERMINATED instance"
-                      " with instance ID %s at %s" % (username,uid,instanceid,time))
+        logmessage = ("INSTANCE log: User %s with UID %i scheduled %s for TERMINATION"
+                      "at %s" % (username,uid,instanceid,time))
         self.LOG.info(logmessage)
 
  

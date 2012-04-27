@@ -71,7 +71,7 @@ class manage_instances(object):
         rmvabl=self.select_random_instance(instances)
 
         try:
-            print "deleting instance %s" % (rmvabl)
+            print "%s scheduled for TERMINATION" % (rmvabl)
             self.terminate_instance(rmvabl)
             self.log.log_termination_success(rmvabl)
             return True
